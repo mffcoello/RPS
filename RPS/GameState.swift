@@ -1,0 +1,8 @@
+//
+//  GameState.swift
+//  RPS
+//
+//  Created by Maria Coello on 2/6/25.
+//
+
+import Foundation
